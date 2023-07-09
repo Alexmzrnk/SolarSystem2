@@ -5,5 +5,11 @@ public class Main {
         Omnax.Sun="1";
         Omnax.Planets="2";
         Omnax.Star="4";
+
+        FeatureOfSun AdamX=new FeatureOfSun();
+        AdamX.name="poya";
+        AdamX.temp=123456 celcius;
+        AdamX.size="32465km";
+
     }
 }
