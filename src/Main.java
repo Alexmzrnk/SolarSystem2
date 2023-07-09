@@ -19,10 +19,10 @@ public class Main {
         xeon.size="1cm";
 
         Planet2 Feon= new Planet2();
-        xeon.name="zeon";
-        xeon.color="blue";
-        xeon.temp="-47celcius";
-        xeon.size="5cm";
+        Feon.name="Feon";
+        Feon.color="blue";
+        Feon.temp="-47celcius";
+        Feon.size="5cm";
 
 
     }
